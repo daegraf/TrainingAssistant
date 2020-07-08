@@ -1,4 +1,4 @@
-# Trainin gAssistant
+# Training Assistant
 
 Hall-Effect sensors can be used to build a retrofit system which can be attached to conventional weight training machines. Using an array of Hall-Effect sensors the position over time of the weight can be recorded by having a magnet attached to the moving weight stack disc(the top one). The Hall-Effect sensors measure the presence of a southpole and with a known position of the sensors the position-time relationship can be measured. Mechano-biological descriptors for weight training such as time under tension or the number of repetition can be extracted from the position-time measurement series.
 
